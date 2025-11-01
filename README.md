@@ -8,7 +8,10 @@ Me gusta trabajar en equipo, compartir ideas y seguir mejorando cada día tanto 
 ## ✨ Sobre mí
 
  💻 Trabajo con distintas tecnologías del ecosistema **Android** y **Web**, desarrollando proyectos con **Kotlin**, **Jetpack Compose**, **HTML**, **CSS**, **JavaScript**, **C# (.NET) y Windows Forms**, **Python**, **GDScript**, etc.
-🧠 Utilizo **Visual Studio Code**, **Visual Studio**, **PyCharm** **Android Studio**, y la **IA** como mis principales entornos de desarrollo. Los Sistemas Operativos que uso son **Linux** principalmente o **Windows** si es necesario.
+
+🧠 Utilizo **Visual Studio Code**, **Visual Studio**, **PyCharm** **Android Studio**, y la **IA** como mis principales entornos de desarrollo. 
+Los Sistemas Operativos que uso son **Linux** principalmente o **Windows** si es necesario.
+
 📊 También uso **Google Sheets** y el **R** para automatizar y organizar información en algunos proyectos.
 
 🎓 Estudiante de **Desarrollo de Software** en el **Instituto Superior de Formación Técnica N°194 (ISFT 194)** de 📍 Miramar, Bs. As.
