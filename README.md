@@ -9,6 +9,6 @@ Me gusta trabajar en equipo, compartir ideas y seguir mejorando cada día tanto 
 🧠 Utilizo Visual Studio Code, Visual Studio y Android Studio como mis principales entornos de desarrollo.
 
 
-🎓 Estudiante de **Técnico en Desarrollo de Software** en el **Instituto Superior de Formación Técnica N°194 (ISFT 194)** de Miramar Bs AS.
+🎓 Estudiante de **Técnico en Desarrollo de Software** en el **Instituto Superior de Formación Técnica N°194 (ISFT 194)** de Miramar Bs As.
 
 
