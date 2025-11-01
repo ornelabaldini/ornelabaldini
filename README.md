@@ -35,5 +35,5 @@ Me gusta trabajar en equipo, compartir ideas y seguir mejorando cada día tanto 
 
 ## 📫 Contacto
 
-📧 **Email:** [ornelabaldini@gmail.com](mailto:ornelabaldini@gmail.com)  
+📧 **Email:** [ornelabaldin@gmail.com](mailto:ornelabaldini@gmail.com)  
 📱 **WhatsApp:** [2236690706](https://wa.me/542236690706)
