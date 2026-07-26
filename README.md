@@ -1,5 +1,3 @@
-# Hola! Soy Ornela Baldini 👋
-
 Desarrolladora de software en formación. Me interesa la tecnología, el aprendizaje constante y la creación de proyectos que combinen diseño y funcionalidad.
 
 ---
