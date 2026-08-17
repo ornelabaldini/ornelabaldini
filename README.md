@@ -4,5 +4,5 @@ Desarrolladora de software en formación. Me interesa la tecnología, el aprendi
 
 ## 📫 Contacto
 
-📧 Email: [ornelabaldini@gmail.com](mailto:ornelabaldini@gmail.com)  
+📧 Email: [ornelabaldin@gmail.com](mailto:ornelabaldin@gmail.com)  
 📱 WhatsApp: [2236690706](https://wa.me/542236690706)
